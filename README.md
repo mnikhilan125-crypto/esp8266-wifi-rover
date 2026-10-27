@@ -8,7 +8,9 @@ The system integrates an L293D motor driver with two DC geared motors for differ
 
 The ESP8266 hosts an interactive web interface that displays sensor readings and provides directional controls. An integrated I²C scanner helps identify connected devices, while configurable sensor addresses are saved to EEPROM so they persist across reboots.
 
-C:\Users\mnikh\Downloads\WhatsApp Image 2026-10-27 at 23.00.03 (1).jpeg
+## Rover Preview
+
+![Mars Rover](images/rover.jpeg)
 
 **Key features**
 - Wi-Fi-based rover control through a web browser
