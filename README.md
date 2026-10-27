@@ -10,7 +10,7 @@ The ESP8266 hosts an interactive web interface that displays sensor readings and
 
 ## Rover Preview
 
-![Mars Rover](images/rover.jpeg)
+![Mars Rover](rover.jpeg)
 
 **Key features**
 - Wi-Fi-based rover control through a web browser
